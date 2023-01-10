@@ -1,3 +1,3 @@
-# Fasils Portfolio
+# Fasil's Portfolio
 
-- This is my portfolio web application developed using React JS.
+- A modern portfolio web application developed using React JS.
